@@ -28,7 +28,7 @@ El propósito principal es comprender cómo una aplicación frontend puede comun
 |---|---|
 | Nombre(s) | Willian Ernesto |
 | Apellido(s) | Castillo Moreno |
-| Correo Electrónico | wcastillo.imprentawilbot@gmail.com |
+| Correo Electrónico | willian_castillo94@outlook.com |
 | Asignatura | Desarrollo Web 2 |
 | Tutor | Vladimir Mate |
 | Fecha de Entrega | 01 de noviembre de 2026 |
